@@ -1,0 +1,5 @@
+Get key from : http://www.flickr.com/services/apps/72157621241183444/key/
+api:8458fd8fds8dfs7fds7
+secret:8fd87fdhdf
+username:A Name
+
